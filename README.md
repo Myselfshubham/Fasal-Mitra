@@ -33,7 +33,14 @@
 
 ## 📂 Project Structure
 ```plaintext
-├── index.html          # Main HTML file
+├── index.html          # Main HTML file           
+├── android-chrome-192x192.png
+├── android-chrome-512x512.png
+├── apple-touch-icon.png
+├── favicon-16x16.png
+├── favicon-32x32.png
+├── favicon.ico
+├── site.webmanifest
 ├── styles.css          # CSS file for styling
 ├── main.js             # JavaScript for functionality
 ├── assets/             # Folder containing images, avatars, and report
@@ -43,3 +50,6 @@
 │   ├── ...
 │   └── report.pdf
 ├── README.md           # This file
+
+
+
